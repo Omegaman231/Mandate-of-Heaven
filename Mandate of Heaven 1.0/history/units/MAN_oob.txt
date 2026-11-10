@@ -1,0 +1,78 @@
+army = {
+	name = "Manchu Army 1"
+	location = 1555
+	regiment = {
+		name = "1. Manchu Regiment"
+		type = infantry
+		home = 1555
+	}
+	regiment = {
+		name = "2. Manchu Regiment"
+		type = infantry
+		home = 1555
+	}
+	regiment = {
+		name = "3. Manchu Regiment"
+		type = infantry
+		home = 1555
+	}
+	regiment = {
+		name = "4. Manchu Regiment"
+		type = cavalry
+		home = 1552
+	}
+	regiment = {
+		name = "5. Manchu Regiment"
+		type = artillery
+		home = 1552
+	}
+	regiment = {
+		name = "6. Manchu Regiment"
+		type = infantry
+		home = 1552
+	}
+	regiment = {
+		name = "7. Manchu Regiment"
+		type = infantry
+		home = 1552
+	}
+	regiment = {
+		name = "8. Manchu Regiment"
+		type = infantry
+		home = 1553
+	}
+}
+army = {
+	name = "Manchu Army 2"
+	location = 1553
+	regiment = {
+		name = "9. Manchu Regiment"
+		type = cavalry
+		home = 1553
+	}
+	regiment = {
+		name = "10. Manchu Regiment"
+		type = artillery
+		home = 1553
+	}
+	regiment = {
+		name = "11. Manchu Regiment"
+		type = infantry
+		home = 1554
+	}
+	regiment = {
+		name = "12. Manchu Regiment"
+		type = infantry
+		home = 1554
+	}
+	regiment = {
+		name = "13. Manchu Regiment"
+		type = infantry
+		home = 1554
+	}
+	regiment = {
+		name = "14. Manchu Regiment"
+		type = cavalry
+		home = 1085
+	}
+}

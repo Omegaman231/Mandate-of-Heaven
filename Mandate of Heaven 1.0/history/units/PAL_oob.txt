@@ -1,0 +1,239 @@
+ROM = {
+	value = 200
+}
+army = {
+	name = "Palmyrene Army 1"
+	location = 1745
+	regiment = {
+		name = "1. Palmyrene Regiment"
+		type = infantry
+		home = 1745
+	}
+	regiment = {
+		name = "2. Palmyrene Regiment"
+		type = infantry
+		home = 1745
+	}
+	regiment = {
+		name = "3. Palmyrene Regiment"
+		type = infantry
+		home = 1745
+	}
+	regiment = {
+		name = "4. Palmyrene Regiment"
+		type = cavalry
+		home = 1745
+	}
+	regiment = {
+		name = "5. Palmyrene Regiment"
+		type = artillery
+		home = 1745
+	}
+	regiment = {
+		name = "6. Palmyrene Regiment"
+		type = infantry
+		home = 1745
+	}
+	regiment = {
+		name = "7. Palmyrene Regiment"
+		type = infantry
+		home = 1745
+	}
+	regiment = {
+		name = "8. Palmyrene Regiment"
+		type = infantry
+		home = 1745
+	}
+}
+army = {
+	name = "Palmyrene Army 2"
+	location = 1745
+	regiment = {
+		name = "9. Palmyrene Regiment"
+		type = cavalry
+		home = 1745
+	}
+	regiment = {
+		name = "10. Palmyrene Regiment"
+		type = artillery
+		home = 1745
+	}
+	regiment = {
+		name = "11. Palmyrene Regiment"
+		type = infantry
+		home = 878
+	}
+	regiment = {
+		name = "12. Palmyrene Regiment"
+		type = infantry
+		home = 878
+	}
+	regiment = {
+		name = "13. Palmyrene Regiment"
+		type = infantry
+		home = 878
+	}
+	regiment = {
+		name = "14. Palmyrene Regiment"
+		type = cavalry
+		home = 878
+	}
+	regiment = {
+		name = "15. Palmyrene Regiment"
+		type = artillery
+		home = 873
+	}
+	regiment = {
+		name = "16. Palmyrene Regiment"
+		type = infantry
+		home = 1751
+	}
+}
+navy = {
+	name = "Alexandrian Fleet"
+	location = 1751
+	ship = {
+		name = "Palmyrene 1"
+		type = frigate
+	}
+	ship = {
+		name = "Palmyrene 2"
+		type = frigate
+	}
+	ship = {
+		name = "Palmyrene 3"
+		type = frigate
+	}
+	ship = {
+		name = "Palmyrene Transport 1"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Palmyrene 1 II"
+		type = frigate
+	}
+	ship = {
+		name = "Palmyrene 2 II"
+		type = frigate
+	}
+	ship = {
+		name = "Palmyrene 3 II"
+		type = frigate
+	}
+	ship = {
+		name = "Palmyrene Transport 1 II"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Palmyrene 1 III"
+		type = frigate
+	}
+	ship = {
+		name = "Palmyrene 2 III"
+		type = frigate
+	}
+	ship = {
+		name = "Palmyrene 3 III"
+		type = frigate
+	}
+	ship = {
+		name = "Palmyrene Transport 1 III"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Alexandrian Fleet Transport 1"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Alexandrian Fleet Transport 2"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Alexandrian Fleet Transport 3"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Alexandrian Fleet Transport 4"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Alexandrian Fleet Transport 5"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Alexandrian Fleet Transport 6"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Alexandrian Fleet Transport 7"
+		type = clipper_transport
+	}
+}
+navy = {
+	name = "Red Sea Fleet"
+	location = 1770
+	ship = {
+		name = "Palmyrene 1 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Palmyrene 2 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Palmyrene 3 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Palmyrene Transport 1 IV"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Palmyrene 1 V"
+		type = frigate
+	}
+	ship = {
+		name = "Palmyrene 2 V"
+		type = frigate
+	}
+	ship = {
+		name = "Palmyrene 3 V"
+		type = frigate
+	}
+	ship = {
+		name = "Palmyrene Transport 1 V"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Palmyrene Fleet Transport 1"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Palmyrene Fleet Transport 2"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Palmyrene Fleet Transport 3"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Palmyrene Fleet Transport 4"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Palmyrene Fleet Transport 5"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Red Sea Fleet Transport 1"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Red Sea Fleet Transport 2"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Red Sea Fleet Transport 3"
+		type = clipper_transport
+	}
+}

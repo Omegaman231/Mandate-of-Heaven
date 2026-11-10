@@ -1,0 +1,44 @@
+army = {
+	name = "Aksumite Army 1"
+	location = 1855
+	regiment = {
+		name = "1. Aksumite Regiment"
+		type = infantry
+		home = 1855
+	}
+	regiment = {
+		name = "2. Aksumite Regiment"
+		type = infantry
+		home = 1855
+	}
+	regiment = {
+		name = "3. Aksumite Regiment"
+		type = infantry
+		home = 1855
+	}
+	regiment = {
+		name = "4. Aksumite Regiment"
+		type = cavalry
+		home = 1855
+	}
+	regiment = {
+		name = "5. Aksumite Regiment"
+		type = artillery
+		home = 1864
+	}
+	regiment = {
+		name = "6. Aksumite Regiment"
+		type = infantry
+		home = 1864
+	}
+	regiment = {
+		name = "7. Aksumite Regiment"
+		type = infantry
+		home = 1864
+	}
+	regiment = {
+		name = "8. Aksumite Regiment"
+		type = infantry
+		home = 1859
+	}
+}

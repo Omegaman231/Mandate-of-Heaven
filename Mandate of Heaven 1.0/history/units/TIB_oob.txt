@@ -1,0 +1,34 @@
+army = {
+	name = "Tibetan Army 1"
+	location = 1587
+	regiment = {
+		name = "1. Tibetan Regiment"
+		type = infantry
+		home = 1587
+	}
+	regiment = {
+		name = "2. Tibetan Regiment"
+		type = infantry
+		home = 1252
+	}
+	regiment = {
+		name = "3. Tibetan Regiment"
+		type = infantry
+		home = 1252
+	}
+	regiment = {
+		name = "4. Tibetan Regiment"
+		type = cavalry
+		home = 1252
+	}
+	regiment = {
+		name = "5. Tibetan Regiment"
+		type = artillery
+		home = 1593
+	}
+	regiment = {
+		name = "6. Tibetan Regiment"
+		type = infantry
+		home = 1593
+	}
+}

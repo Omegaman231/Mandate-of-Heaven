@@ -1,0 +1,34 @@
+army = {
+	name = "Dian Army 1"
+	location = 1601
+	regiment = {
+		name = "1. Dian Regiment"
+		type = infantry
+		home = 1601
+	}
+	regiment = {
+		name = "2. Dian Regiment"
+		type = infantry
+		home = 1601
+	}
+	regiment = {
+		name = "3. Dian Regiment"
+		type = infantry
+		home = 1601
+	}
+	regiment = {
+		name = "4. Dian Regiment"
+		type = cavalry
+		home = 1585
+	}
+	regiment = {
+		name = "5. Dian Regiment"
+		type = artillery
+		home = 1585
+	}
+	regiment = {
+		name = "6. Dian Regiment"
+		type = infantry
+		home = 1585
+	}
+}

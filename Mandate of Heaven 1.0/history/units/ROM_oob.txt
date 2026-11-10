@@ -1,0 +1,478 @@
+PAL = {
+	value = 200
+	level = 5
+	influence_value = 60
+}
+BEL = {
+	value = 200
+	level = 5
+	influence_value = 40
+}
+GAL = {
+	value = 200
+	level = 5
+	influence_value = 40
+}
+GER = {
+	value = 200
+	level = 5
+	influence_value = 40
+}
+PAN = {
+	value = 200
+	level = 5
+	influence_value = 40
+}
+DAC = {
+	value = 200
+	level = 5
+	influence_value = 40
+}
+MOE = {
+	value = 200
+	level = 5
+	influence_value = 40
+}
+BRI = {
+	value = 200
+	level = 5
+	influence_value = 40
+}
+HIS = {
+	value = 200
+	level = 5
+	influence_value = 40
+}
+army = {
+	name = "Roman Army 1"
+	location = 749
+	regiment = {
+		name = "1. Roman Regiment"
+		type = infantry
+		home = 749
+	}
+	regiment = {
+		name = "2. Roman Regiment"
+		type = infantry
+		home = 749
+	}
+	regiment = {
+		name = "3. Roman Regiment"
+		type = infantry
+		home = 749
+	}
+	regiment = {
+		name = "4. Roman Regiment"
+		type = cavalry
+		home = 749
+	}
+	regiment = {
+		name = "5. Roman Regiment"
+		type = artillery
+		home = 860
+	}
+	regiment = {
+		name = "6. Roman Regiment"
+		type = infantry
+		home = 860
+	}
+	regiment = {
+		name = "7. Roman Regiment"
+		type = infantry
+		home = 860
+	}
+	regiment = {
+		name = "8. Roman Regiment"
+		type = infantry
+		home = 860
+	}
+}
+army = {
+	name = "Roman Army 2"
+	location = 860
+	regiment = {
+		name = "9. Roman Regiment"
+		type = cavalry
+		home = 860
+	}
+	regiment = {
+		name = "10. Roman Regiment"
+		type = artillery
+		home = 860
+	}
+	regiment = {
+		name = "11. Roman Regiment"
+		type = infantry
+		home = 754
+	}
+	regiment = {
+		name = "12. Roman Regiment"
+		type = infantry
+		home = 754
+	}
+	regiment = {
+		name = "13. Roman Regiment"
+		type = infantry
+		home = 754
+	}
+	regiment = {
+		name = "14. Roman Regiment"
+		type = cavalry
+		home = 754
+	}
+	regiment = {
+		name = "15. Roman Regiment"
+		type = artillery
+		home = 754
+	}
+	regiment = {
+		name = "16. Roman Regiment"
+		type = infantry
+		home = 726
+	}
+}
+army = {
+	name = "Roman Army 3"
+	location = 726
+	regiment = {
+		name = "17. Roman Regiment"
+		type = infantry
+		home = 726
+	}
+	regiment = {
+		name = "18. Roman Regiment"
+		type = infantry
+		home = 726
+	}
+	regiment = {
+		name = "19. Roman Regiment"
+		type = cavalry
+		home = 762
+	}
+	regiment = {
+		name = "20. Roman Regiment"
+		type = artillery
+		home = 762
+	}
+	regiment = {
+		name = "21. Roman Regiment"
+		type = infantry
+		home = 762
+	}
+	regiment = {
+		name = "22. Roman Regiment"
+		type = infantry
+		home = 762
+	}
+	regiment = {
+		name = "23. Roman Regiment"
+		type = infantry
+		home = 764
+	}
+	regiment = {
+		name = "24. Roman Regiment"
+		type = cavalry
+		home = 764
+	}
+}
+army = {
+	name = "Roman Army 4"
+	location = 764
+	regiment = {
+		name = "25. Roman Regiment"
+		type = artillery
+		home = 764
+	}
+	regiment = {
+		name = "26. Roman Regiment"
+		type = infantry
+		home = 764
+	}
+	regiment = {
+		name = "27. Roman Regiment"
+		type = infantry
+		home = 755
+	}
+	regiment = {
+		name = "28. Roman Regiment"
+		type = infantry
+		home = 759
+	}
+	regiment = {
+		name = "29. Roman Regiment"
+		type = cavalry
+		home = 761
+	}
+	regiment = {
+		name = "30. Roman Regiment"
+		type = artillery
+		home = 757
+	}
+	regiment = {
+		name = "31. Roman Regiment"
+		type = infantry
+		home = 720
+	}
+	regiment = {
+		name = "32. Roman Regiment"
+		type = infantry
+		home = 753
+	}
+}
+army = {
+	name = "Roman Army 5"
+	location = 1725
+	regiment = {
+		name = "33. Roman Regiment"
+		type = infantry
+		home = 1725
+	}
+	regiment = {
+		name = "34. Roman Regiment"
+		type = cavalry
+		home = 869
+	}
+	regiment = {
+		name = "35. Roman Regiment"
+		type = artillery
+		home = 3258
+	}
+	regiment = {
+		name = "36. Roman Regiment"
+		type = infantry
+		home = 3258
+	}
+	regiment = {
+		name = "37. Roman Regiment"
+		type = infantry
+		home = 3259
+	}
+	regiment = {
+		name = "38. Roman Regiment"
+		type = infantry
+		home = 3259
+	}
+	regiment = {
+		name = "39. Roman Regiment"
+		type = cavalry
+		home = 3260
+	}
+	regiment = {
+		name = "40. Roman Regiment"
+		type = artillery
+		home = 3260
+	}
+}
+army = {
+	name = "Roman Army 6"
+	location = 765
+	regiment = {
+		name = "41. Roman Regiment"
+		type = infantry
+		home = 765
+	}
+	regiment = {
+		name = "42. Roman Regiment"
+		type = infantry
+		home = 756
+	}
+	regiment = {
+		name = "43. Roman Regiment"
+		type = infantry
+		home = 1700
+	}
+	regiment = {
+		name = "44. Roman Regiment"
+		type = cavalry
+		home = 1705
+	}
+	regiment = {
+		name = "45. Roman Regiment"
+		type = artillery
+		home = 1702
+	}
+}
+navy = {
+	name = "Roman Fleet"
+	location = 749
+	ship = {
+		name = "Roman 1"
+		type = frigate
+	}
+	ship = {
+		name = "Roman 2"
+		type = frigate
+	}
+	ship = {
+		name = "Roman 3"
+		type = frigate
+	}
+	ship = {
+		name = "Roman 4"
+		type = frigate
+	}
+	ship = {
+		name = "Roman 5"
+		type = frigate
+	}
+	ship = {
+		name = "Roman 6"
+		type = frigate
+	}
+	ship = {
+		name = "Roman Transport 1"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Roman Transport 2"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Roman Transport 3"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Roman 1 II"
+		type = frigate
+	}
+	ship = {
+		name = "Roman 2 II"
+		type = frigate
+	}
+	ship = {
+		name = "Roman 3 II"
+		type = frigate
+	}
+	ship = {
+		name = "Roman 4 II"
+		type = frigate
+	}
+	ship = {
+		name = "Roman 5 II"
+		type = frigate
+	}
+	ship = {
+		name = "Roman 6 II"
+		type = frigate
+	}
+	ship = {
+		name = "Roman Transport 1 II"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Roman Transport 2 II"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Roman Transport 3 II"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Roman 1 III"
+		type = frigate
+	}
+	ship = {
+		name = "Roman 2 III"
+		type = frigate
+	}
+	ship = {
+		name = "Roman 3 III"
+		type = frigate
+	}
+	ship = {
+		name = "Roman 4 III"
+		type = frigate
+	}
+	ship = {
+		name = "Roman 5 III"
+		type = frigate
+	}
+	ship = {
+		name = "Roman 6 III"
+		type = frigate
+	}
+	ship = {
+		name = "Roman Transport 1 III"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Roman Transport 2 III"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Roman Transport 3 III"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Roman 1 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Roman 2 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Roman 3 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Roman 4 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Roman 5 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Roman 6 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Roman Transport 1 IV"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Roman Transport 2 IV"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Roman Transport 3 IV"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Roman 1 V"
+		type = frigate
+	}
+	ship = {
+		name = "Roman 2 V"
+		type = frigate
+	}
+	ship = {
+		name = "Roman 3 V"
+		type = frigate
+	}
+	ship = {
+		name = "Roman 4 V"
+		type = frigate
+	}
+	ship = {
+		name = "Roman 5 V"
+		type = frigate
+	}
+	ship = {
+		name = "Roman 6 V"
+		type = frigate
+	}
+	ship = {
+		name = "Roman Transport 1 V"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Roman Transport 2 V"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Roman Transport 3 V"
+		type = clipper_transport
+	}
+}

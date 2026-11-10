@@ -1,0 +1,152 @@
+army = {
+	name = "Joseon Army 1"
+	location = 1624
+	regiment = {
+		name = "1. Joseon Regiment"
+		type = infantry
+		home = 1624
+	}
+	regiment = {
+		name = "2. Joseon Regiment"
+		type = infantry
+		home = 1624
+	}
+	regiment = {
+		name = "3. Joseon Regiment"
+		type = infantry
+		home = 1624
+	}
+	regiment = {
+		name = "4. Joseon Regiment"
+		type = cavalry
+		home = 1624
+	}
+	regiment = {
+		name = "5. Joseon Regiment"
+		type = artillery
+		home = 1479
+	}
+	regiment = {
+		name = "6. Joseon Regiment"
+		type = infantry
+		home = 1479
+	}
+	regiment = {
+		name = "7. Joseon Regiment"
+		type = infantry
+		home = 1479
+	}
+	regiment = {
+		name = "8. Joseon Regiment"
+		type = infantry
+		home = 1479
+	}
+}
+army = {
+	name = "Joseon Army 2"
+	location = 1479
+	regiment = {
+		name = "9. Joseon Regiment"
+		type = cavalry
+		home = 1479
+	}
+	regiment = {
+		name = "10. Joseon Regiment"
+		type = artillery
+		home = 1619
+	}
+	regiment = {
+		name = "11. Joseon Regiment"
+		type = infantry
+		home = 1619
+	}
+	regiment = {
+		name = "12. Joseon Regiment"
+		type = infantry
+		home = 1619
+	}
+}
+navy = {
+	name = "Joseon Fleet"
+	location = 1479
+	ship = {
+		name = "Joseon 1"
+		type = frigate
+	}
+	ship = {
+		name = "Joseon 2"
+		type = frigate
+	}
+	ship = {
+		name = "Joseon Transport 1"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Joseon 1 II"
+		type = frigate
+	}
+	ship = {
+		name = "Joseon 2 II"
+		type = frigate
+	}
+	ship = {
+		name = "Joseon Transport 1 II"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Joseon 1 III"
+		type = frigate
+	}
+	ship = {
+		name = "Joseon 2 III"
+		type = frigate
+	}
+	ship = {
+		name = "Joseon Transport 1 III"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Joseon 1 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Joseon 2 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Joseon Transport 1 IV"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Joseon 1 V"
+		type = frigate
+	}
+	ship = {
+		name = "Joseon 2 V"
+		type = frigate
+	}
+	ship = {
+		name = "Joseon Transport 1 V"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Joseon Fleet Transport 1"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Joseon Fleet Transport 2"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Joseon Fleet Transport 3"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Joseon Fleet Transport 4"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Joseon Fleet Transport 5"
+		type = clipper_transport
+	}
+}

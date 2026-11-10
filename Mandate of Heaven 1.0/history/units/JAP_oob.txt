@@ -1,0 +1,246 @@
+army = {
+	name = "Yamato Army 1"
+	location = 1657
+	regiment = {
+		name = "1. Yamato Regiment"
+		type = infantry
+		home = 1657
+	}
+	regiment = {
+		name = "2. Yamato Regiment"
+		type = infantry
+		home = 1657
+	}
+	regiment = {
+		name = "3. Yamato Regiment"
+		type = infantry
+		home = 1657
+	}
+	regiment = {
+		name = "4. Yamato Regiment"
+		type = cavalry
+		home = 1657
+	}
+	regiment = {
+		name = "5. Yamato Regiment"
+		type = artillery
+		home = 1657
+	}
+	regiment = {
+		name = "6. Yamato Regiment"
+		type = infantry
+		home = 1657
+	}
+	regiment = {
+		name = "7. Yamato Regiment"
+		type = infantry
+		home = 1657
+	}
+	regiment = {
+		name = "8. Yamato Regiment"
+		type = infantry
+		home = 1657
+	}
+}
+army = {
+	name = "Yamato Army 2"
+	location = 1657
+	regiment = {
+		name = "9. Yamato Regiment"
+		type = cavalry
+		home = 1657
+	}
+	regiment = {
+		name = "10. Yamato Regiment"
+		type = artillery
+		home = 1657
+	}
+	regiment = {
+		name = "11. Yamato Regiment"
+		type = infantry
+		home = 1657
+	}
+	regiment = {
+		name = "12. Yamato Regiment"
+		type = infantry
+		home = 1657
+	}
+	regiment = {
+		name = "13. Yamato Regiment"
+		type = infantry
+		home = 1657
+	}
+	regiment = {
+		name = "14. Yamato Regiment"
+		type = cavalry
+		home = 1657
+	}
+	regiment = {
+		name = "15. Yamato Regiment"
+		type = artillery
+		home = 1657
+	}
+	regiment = {
+		name = "16. Yamato Regiment"
+		type = infantry
+		home = 1657
+	}
+}
+army = {
+	name = "Yamato Army 3"
+	location = 1657
+	regiment = {
+		name = "17. Yamato Regiment"
+		type = infantry
+		home = 1657
+	}
+	regiment = {
+		name = "18. Yamato Regiment"
+		type = infantry
+		home = 1657
+	}
+	regiment = {
+		name = "19. Yamato Regiment"
+		type = cavalry
+		home = 1655
+	}
+	regiment = {
+		name = "20. Yamato Regiment"
+		type = artillery
+		home = 1649
+	}
+	regiment = {
+		name = "21. Yamato Regiment"
+		type = infantry
+		home = 1675
+	}
+	regiment = {
+		name = "22. Yamato Regiment"
+		type = infantry
+		home = 1677
+	}
+}
+navy = {
+	name = "Yamato Fleet"
+	location = 1657
+	ship = {
+		name = "Yamato 1"
+		type = frigate
+	}
+	ship = {
+		name = "Yamato 2"
+		type = frigate
+	}
+	ship = {
+		name = "Yamato 3"
+		type = frigate
+	}
+	ship = {
+		name = "Yamato 4"
+		type = frigate
+	}
+	ship = {
+		name = "Yamato Transport 1"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Yamato Transport 2"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Yamato 1 II"
+		type = frigate
+	}
+	ship = {
+		name = "Yamato 2 II"
+		type = frigate
+	}
+	ship = {
+		name = "Yamato 3 II"
+		type = frigate
+	}
+	ship = {
+		name = "Yamato 4 II"
+		type = frigate
+	}
+	ship = {
+		name = "Yamato Transport 1 II"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Yamato Transport 2 II"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Yamato 1 III"
+		type = frigate
+	}
+	ship = {
+		name = "Yamato 2 III"
+		type = frigate
+	}
+	ship = {
+		name = "Yamato 3 III"
+		type = frigate
+	}
+	ship = {
+		name = "Yamato 4 III"
+		type = frigate
+	}
+	ship = {
+		name = "Yamato Transport 1 III"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Yamato Transport 2 III"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Yamato 1 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Yamato 2 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Yamato 3 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Yamato 4 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Yamato Transport 1 IV"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Yamato Transport 2 IV"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Yamato 1 V"
+		type = frigate
+	}
+	ship = {
+		name = "Yamato 2 V"
+		type = frigate
+	}
+	ship = {
+		name = "Yamato 3 V"
+		type = frigate
+	}
+	ship = {
+		name = "Yamato 4 V"
+		type = frigate
+	}
+	ship = {
+		name = "Yamato Transport 1 V"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Yamato Transport 2 V"
+		type = clipper_transport
+	}
+}

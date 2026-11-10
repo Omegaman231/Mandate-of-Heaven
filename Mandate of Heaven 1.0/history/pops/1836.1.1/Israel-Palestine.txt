@@ -1,0 +1,172 @@
+916 = {
+	aristocrats = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 105
+	}
+	clergymen = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 243
+	}
+	artisans = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 926
+	}
+	soldiers = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 70
+	}
+	farmers = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 17305
+	}
+}
+917 = {
+	aristocrats = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 285
+	}
+	bureaucrats = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 357
+	}
+	officers = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 105
+	}
+	clergymen = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 295
+	}
+	artisans = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 5342
+	}
+	soldiers = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 249
+	}
+	farmers = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 57239
+	}
+}
+918 = {
+	aristocrats = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 177
+	}
+	clergymen = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 208
+	}
+	artisans = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 1790
+	}
+	soldiers = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 177
+	}
+	farmers = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 13428
+	}
+}
+919 = {
+	aristocrats = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 531
+	}
+	clergymen = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 594
+	}
+	artisans = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 6042
+	}
+	soldiers = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 531
+	}
+	farmers = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 131214
+	}
+}
+920 = {
+	aristocrats = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 177
+	}
+	clergymen = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 175
+	}
+	artisans = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 2150
+	}
+	soldiers = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 177
+	}
+	farmers = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 53107
+	}
+}
+921 = {
+	aristocrats = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 137
+	}
+	clergymen = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 102
+	}
+	artisans = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 603
+	}
+	soldiers = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 174
+	}
+	farmers = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 11759
+	}
+}

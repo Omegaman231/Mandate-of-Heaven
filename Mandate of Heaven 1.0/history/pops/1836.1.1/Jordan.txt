@@ -1,0 +1,170 @@
+908 = {
+	aristocrats = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 82
+	}
+	clergymen = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 110
+	}
+	clergymen = {
+		culture = arab
+		religion = placeholder
+		size = 24
+	}
+	artisans = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 252
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 55
+	}
+	soldiers = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 53
+	}
+	farmers = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 5151
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 1130
+	}
+}
+909 = {
+	aristocrats = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 66
+	}
+	clergymen = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 124
+	}
+	artisans = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 261
+	}
+	soldiers = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 65
+	}
+	farmers = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 5143
+	}
+}
+910 = {
+	aristocrats = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 54
+	}
+	clergymen = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 54
+	}
+	artisans = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 138
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 30
+	}
+	soldiers = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 54
+	}
+	farmers = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 3056
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 671
+	}
+}
+911 = {
+	aristocrats = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 82
+	}
+	clergymen = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 171
+	}
+	artisans = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 417
+	}
+	soldiers = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 82
+	}
+	farmers = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 8977
+	}
+}
+922 = {
+	clergymen = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 53
+	}
+	artisans = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 224
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 49
+	}
+	soldiers = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 53
+	}
+	farmers = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 5293
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 1162
+	}
+	aristocrats = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 26
+	}
+}

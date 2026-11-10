@@ -1,0 +1,212 @@
+army = {
+	name = "Chu Army 1"
+	location = 1547
+	regiment = {
+		name = "1. Chu Regiment"
+		type = infantry
+		home = 1547
+	}
+	regiment = {
+		name = "2. Chu Regiment"
+		type = infantry
+		home = 1547
+	}
+	regiment = {
+		name = "3. Chu Regiment"
+		type = infantry
+		home = 1547
+	}
+	regiment = {
+		name = "4. Chu Regiment"
+		type = cavalry
+		home = 1547
+	}
+	regiment = {
+		name = "5. Chu Regiment"
+		type = artillery
+		home = 1537
+	}
+	regiment = {
+		name = "6. Chu Regiment"
+		type = infantry
+		home = 1537
+	}
+	regiment = {
+		name = "7. Chu Regiment"
+		type = infantry
+		home = 1537
+	}
+	regiment = {
+		name = "8. Chu Regiment"
+		type = infantry
+		home = 1537
+	}
+}
+army = {
+	name = "Chu Army 2"
+	location = 1540
+	regiment = {
+		name = "9. Chu Regiment"
+		type = cavalry
+		home = 1540
+	}
+	regiment = {
+		name = "10. Chu Regiment"
+		type = artillery
+		home = 1541
+	}
+	regiment = {
+		name = "11. Chu Regiment"
+		type = infantry
+		home = 1470
+	}
+	regiment = {
+		name = "12. Chu Regiment"
+		type = infantry
+		home = 1471
+	}
+	regiment = {
+		name = "13. Chu Regiment"
+		type = infantry
+		home = 1539
+	}
+	regiment = {
+		name = "14. Chu Regiment"
+		type = cavalry
+		home = 1473
+	}
+	regiment = {
+		name = "15. Chu Regiment"
+		type = artillery
+		home = 1475
+	}
+	regiment = {
+		name = "16. Chu Regiment"
+		type = infantry
+		home = 1581
+	}
+}
+navy = {
+	name = "Chu Fleet"
+	location = 1540
+	ship = {
+		name = "Chu 1"
+		type = frigate
+	}
+	ship = {
+		name = "Chu 2"
+		type = frigate
+	}
+	ship = {
+		name = "Chu 3"
+		type = frigate
+	}
+	ship = {
+		name = "Chu 4"
+		type = frigate
+	}
+	ship = {
+		name = "Chu Transport 1"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Chu Transport 2"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Chu 1 II"
+		type = frigate
+	}
+	ship = {
+		name = "Chu 2 II"
+		type = frigate
+	}
+	ship = {
+		name = "Chu 3 II"
+		type = frigate
+	}
+	ship = {
+		name = "Chu 4 II"
+		type = frigate
+	}
+	ship = {
+		name = "Chu Transport 1 II"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Chu Transport 2 II"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Chu 1 III"
+		type = frigate
+	}
+	ship = {
+		name = "Chu 2 III"
+		type = frigate
+	}
+	ship = {
+		name = "Chu 3 III"
+		type = frigate
+	}
+	ship = {
+		name = "Chu 4 III"
+		type = frigate
+	}
+	ship = {
+		name = "Chu Transport 1 III"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Chu Transport 2 III"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Chu 1 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Chu 2 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Chu 3 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Chu 4 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Chu Transport 1 IV"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Chu Transport 2 IV"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Chu 1 V"
+		type = frigate
+	}
+	ship = {
+		name = "Chu 2 V"
+		type = frigate
+	}
+	ship = {
+		name = "Chu 3 V"
+		type = frigate
+	}
+	ship = {
+		name = "Chu 4 V"
+		type = frigate
+	}
+	ship = {
+		name = "Chu Transport 1 V"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Chu Transport 2 V"
+		type = clipper_transport
+	}
+}

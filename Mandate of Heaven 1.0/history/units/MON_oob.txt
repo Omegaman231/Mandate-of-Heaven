@@ -1,0 +1,88 @@
+army = {
+	name = "Mongol Army 1"
+	location = 2678
+	regiment = {
+		name = "1. Mongol Regiment"
+		type = infantry
+		home = 2678
+	}
+	regiment = {
+		name = "2. Mongol Regiment"
+		type = infantry
+		home = 1488
+	}
+	regiment = {
+		name = "3. Mongol Regiment"
+		type = infantry
+		home = 1488
+	}
+	regiment = {
+		name = "4. Mongol Regiment"
+		type = cavalry
+		home = 1488
+	}
+	regiment = {
+		name = "5. Mongol Regiment"
+		type = artillery
+		home = 1063
+	}
+	regiment = {
+		name = "6. Mongol Regiment"
+		type = infantry
+		home = 1063
+	}
+	regiment = {
+		name = "7. Mongol Regiment"
+		type = infantry
+		home = 1063
+	}
+	regiment = {
+		name = "8. Mongol Regiment"
+		type = infantry
+		home = 1063
+	}
+}
+army = {
+	name = "Mongol Army 2"
+	location = 1599
+	regiment = {
+		name = "9. Mongol Regiment"
+		type = cavalry
+		home = 1599
+	}
+	regiment = {
+		name = "10. Mongol Regiment"
+		type = artillery
+		home = 1599
+	}
+	regiment = {
+		name = "11. Mongol Regiment"
+		type = infantry
+		home = 1599
+	}
+	regiment = {
+		name = "12. Mongol Regiment"
+		type = infantry
+		home = 2608
+	}
+	regiment = {
+		name = "13. Mongol Regiment"
+		type = infantry
+		home = 2608
+	}
+	regiment = {
+		name = "14. Mongol Regiment"
+		type = cavalry
+		home = 1595
+	}
+	regiment = {
+		name = "15. Mongol Regiment"
+		type = artillery
+		home = 1469
+	}
+	regiment = {
+		name = "16. Mongol Regiment"
+		type = infantry
+		home = 1469
+	}
+}
